@@ -1,7 +1,7 @@
 # **SIMPLE CALCULATOR**
 ### *A React App*
 
-[![N|Solid](https://i.ibb.co/L9b7C6w/react.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://i.ibb.co/L9b7C6w/react.png)](https://reactjs.org)
 
 ## LIVE: *https://sheikh566.github.io/react-calculator/*
 ## Features
