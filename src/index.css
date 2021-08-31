@@ -1,0 +1,128 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left top,
+    #223724,
+    #28652d,
+    #2b9631,
+    #32c92a,
+    #43ff00
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  width: 100%;
+}
+
+#wrapper {
+  display: inline-block;
+  box-sizing: border-box;
+}
+#wrapper > * {
+  margin-left: -400px;
+}
+
+#reactBigImg, #title, #calc {
+  position: absolute;
+}
+
+#github {
+  display: block;
+}
+
+#img {
+  -webkit-filter: drop-shadow(15px 15px 15px #073b00);
+  filter: drop-shadow(15px 15px 15px #073b00);
+}
+#lightCover {
+  position: absolute;
+  background: #43607c;
+  top: 43px;
+  left: 88px;
+  width: 600px;
+  height: 46px;
+  z-index: 100;
+}
+#screenContainer {
+  margin: 90px 70px
+}
+#screen {
+  width: 647px;
+  height: 163px;
+  border: none;
+  background: none;
+  color: #00ff9d;
+}
+#screen:focus {
+  outline: none;
+}
+.blink {
+  animation: blinker 0.35s 3 linear;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+#reactLogo {
+  height: 1.7rem;
+  animation: spin 2.5s infinite linear;
+  position: absolute;
+  top: 14.3rem;
+  left: 8.3rem;
+  z-index: 1;
+}
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+marquee {
+  position: absolute;
+  top: 14.7rem;
+  left: 10rem;
+  white-space: pre;
+  color: #76a2b6;
+  font-family: "Nova Flat", cursive;
+  user-select: none;
+  height: auto;
+  box-shadow: inset 12px -2px 15px -4px #4a5860
+            , inset -120px -2px 15px -4px #37474f;
+}
+pre {
+  height: 0px;
+}
+table {
+  position: absolute;
+  top: 274px;
+  left: 45px;
+  table-layout: fixed;
+  width: 0;
+}
+#row_0 {
+  height: 70px;
+}
+#row_1,
+#row_2,
+#row_3,
+#row_4 {
+  height: 157px;
+}
+td {
+  color: #2d4e71;
+  text-align: center;
+  width: 174px;
+  font-size: 33px;
+  font-family: "Nova Flat", cursive;
+  user-select: none;
+}
+td:active {
+  color: chartreuse;
+}

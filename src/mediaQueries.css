@@ -1,0 +1,230 @@
+@media screen and (min-width: 1501px) {
+    #wrapper {
+        transform: scale(0.83);
+        margin-left: 65%;
+        margin-top: -1%;
+    }
+    #reactBigImg {
+        width: 290%;
+        margin-left: -100vw;
+    }
+    #title {
+        top: 27%;
+        left: -45vw;
+    }
+    #titleImg {
+        width: 80%;
+    }
+    #calc {
+        top: .13rem;
+    }
+    #github {
+        margin-left: 19%;
+        width: 42%;
+    }
+}
+
+@media screen and (min-width: 1301px) and (max-width: 1500px) {
+    #wrapper {
+        transform: scale(0.80);
+        margin-left: 65%;
+        margin-top: -3%;
+    }
+    #reactBigImg {
+        margin-left: -105vw;
+        width: 260%;
+    }
+    #title {
+        top: 27%;
+        left: -45vw;
+    }
+    #titleImg {
+        width: 70%;
+    }
+    #calc {
+        top: .13rem;
+    }
+    #github {
+        display: block;
+        margin-left: 15%;
+        width: 40%;
+    }
+}
+@media screen and (min-width: 1101px) and (max-width: 1300px) {
+    #wrapper {
+        transform: scale(0.75);
+        margin-left: 65%;
+        margin-top: -7%;
+    }
+    #reactBigImg {
+        margin-top: 10%;
+        margin-left: -100vw;
+        width: 250%;
+    }
+    #title {
+        top: 27%;
+        left: -47vw;
+    }
+    #titleImg {
+        width: 70%;
+    }
+    #calc {
+        top: .13rem;
+    }
+    #github {
+        margin-left: 15%;
+        width: 40%;
+    }
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 1100px){
+    #wrapper {
+        transform: scale(0.75);
+        margin-left: 45%;
+    }
+    #reactBigImg {
+        margin-top: -290%;
+        margin-left: -55%;
+    }
+    #title {
+        top: -10%;
+        left: 42%;
+    }
+    #titleImg{
+        width: 70%;
+    }
+    #calc {
+        top: 5.1rem;
+    }
+    #img {
+        margin-top: 10%;
+    }
+    #github {
+        display: block;
+        margin-left: 5%;
+        margin-top: 160%;
+    }
+    
+}
+@media screen and (min-width: 621px) and (max-width: 768px){
+    #wrapper {
+        transform: scale(0.72);
+        margin-left: 41%;
+        margin-top: -3%;
+    }
+    #reactBigImg {
+        margin-left: -15%;
+        margin-top: -225%;
+        height: 800px;
+    }
+    #title {
+        top: -12%;
+        left: 42%;
+    }
+    #titleImg{
+        width: 70%;
+    }
+    #calc{
+        top: 3.7rem;
+    }
+    #img {
+        margin-top: 7%;
+    }
+    #github {
+        display: block;
+        margin-left: 5%;
+        margin-top: 158%;
+    }
+}
+@media screen and (min-width: 511px) and (max-width: 620px){
+    #wrapper {
+        transform: scale(0.61);
+        margin-left: 35%;
+        margin-top: -25%;
+    }
+    #reactBigImg {
+        margin-left: -15%;
+        margin-top: -205%;
+        height: 800px;
+    }
+    #title {
+        top: -7%;
+        left: 45%;
+    }
+    #titleImg{
+        width: 70%;
+    }
+    #calc{
+        top: 6.7rem;
+    }
+    #img {
+        margin-top: 13%;
+    }
+    #github {
+        display: block;
+        margin-left: 5%;
+        margin-top: 164%;
+    }
+}
+
+@media screen and (min-width: 401px) and (max-width: 510px) {
+    #wrapper {
+        transform: scale(0.45);
+        margin-left: 24%;
+        margin-top: -50%;
+    }
+    #reactBigImg {
+        margin-left: -15%;
+        margin-top: -230%;
+        height: 800px;
+    }
+    #title {
+        top: -15%;
+        left: 45%;
+    }
+    #titleImg{
+        width: 70%;
+    }
+    #calc{
+        top: 3.4rem;
+    }
+    #img {
+        margin-top: 6%;
+    }
+    #github {
+        display: block;
+        margin-left: 5%;
+        margin-top: 165%;
+    }
+}
+@media screen and (max-width: 400px) {
+    #wrapper {
+        transform: scale(0.42);
+        margin-left: 17%;
+        margin-top: -50%;
+    }
+    #reactBigImg {
+        margin-left: -15%;
+        margin-top: -230%;
+        height: 800px;
+    }
+    #title {
+        top: -20%;
+        left: 45%;
+    }
+    #titleImg{
+        width: 70%;
+    }
+    #calc{
+        top: -.8rem;
+    }
+    #img {
+        margin-top: -2%;
+    }
+    #github {
+        display: block;
+        margin-left: 5%;
+        margin-top: 165%;
+    }
+}
