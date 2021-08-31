@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Sheikh566/react-calculator/static/css/main.98b73355.chunk.css",
-    "main.js": "/Sheikh566/react-calculator/static/js/main.e16749e6.chunk.js",
-    "main.js.map": "/Sheikh566/react-calculator/static/js/main.e16749e6.chunk.js.map",
-    "runtime-main.js": "/Sheikh566/react-calculator/static/js/runtime-main.8eeed963.js",
-    "runtime-main.js.map": "/Sheikh566/react-calculator/static/js/runtime-main.8eeed963.js.map",
-    "static/js/2.371b8ebb.chunk.js": "/Sheikh566/react-calculator/static/js/2.371b8ebb.chunk.js",
-    "static/js/2.371b8ebb.chunk.js.map": "/Sheikh566/react-calculator/static/js/2.371b8ebb.chunk.js.map",
-    "index.html": "/Sheikh566/react-calculator/index.html",
-    "static/css/main.98b73355.chunk.css.map": "/Sheikh566/react-calculator/static/css/main.98b73355.chunk.css.map",
-    "static/js/2.371b8ebb.chunk.js.LICENSE.txt": "/Sheikh566/react-calculator/static/js/2.371b8ebb.chunk.js.LICENSE.txt",
-    "static/media/calculator.png": "/Sheikh566/react-calculator/static/media/calculator.577cd075.png",
-    "static/media/reactGreen.png": "/Sheikh566/react-calculator/static/media/reactGreen.407853e0.png",
-    "static/media/title.png": "/Sheikh566/react-calculator/static/media/title.b62e6a15.png"
+    "main.css": "/react-calculator/static/css/main.98b73355.chunk.css",
+    "main.js": "/react-calculator/static/js/main.e16749e6.chunk.js",
+    "main.js.map": "/react-calculator/static/js/main.e16749e6.chunk.js.map",
+    "runtime-main.js": "/react-calculator/static/js/runtime-main.52b96a53.js",
+    "runtime-main.js.map": "/react-calculator/static/js/runtime-main.52b96a53.js.map",
+    "static/js/2.371b8ebb.chunk.js": "/react-calculator/static/js/2.371b8ebb.chunk.js",
+    "static/js/2.371b8ebb.chunk.js.map": "/react-calculator/static/js/2.371b8ebb.chunk.js.map",
+    "index.html": "/react-calculator/index.html",
+    "static/css/main.98b73355.chunk.css.map": "/react-calculator/static/css/main.98b73355.chunk.css.map",
+    "static/js/2.371b8ebb.chunk.js.LICENSE.txt": "/react-calculator/static/js/2.371b8ebb.chunk.js.LICENSE.txt",
+    "static/media/calculator.png": "/react-calculator/static/media/calculator.577cd075.png",
+    "static/media/reactGreen.png": "/react-calculator/static/media/reactGreen.407853e0.png",
+    "static/media/title.png": "/react-calculator/static/media/title.b62e6a15.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8eeed963.js",
+    "static/js/runtime-main.52b96a53.js",
     "static/js/2.371b8ebb.chunk.js",
     "static/css/main.98b73355.chunk.css",
     "static/js/main.e16749e6.chunk.js"
