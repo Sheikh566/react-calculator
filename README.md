@@ -3,7 +3,7 @@
 
 [![N|Solid](https://i.ibb.co/L9b7C6w/react.png)](https://reactjs.org)
 
-## LIVE: *https://sheikh566.github.io/react-calculator/*
+## LIVE: *https://sheikh566.github.io/react-calculator*
 ## Features
 
 - Addition, subtraction, multiplication, division
